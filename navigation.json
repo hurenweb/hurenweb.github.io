@@ -30,6 +30,11 @@
       "navi_expand_level": 1
     },
     {
+      "text": "友联",
+      "target": "page/link.md",
+      "toc": false
+    },
+    {
       "text": "关于",
       "target": "page/about.md",
       "toc": false
