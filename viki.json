@@ -1,7 +1,7 @@
 {
     "brand": "viki",
     "title": "编程日记",
-    "favicon": "https://github.com/vnotex/viki/raw/master/resources/viki.ico",
+    "favicon": "image/favicon.ico",
     "footer": "",
     "show_suffix": false,
     "load_before_search": true,

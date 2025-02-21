@@ -17234,7 +17234,7 @@ function encode6bit(b) {
 
         var _ = function () {
             function e() {
-                f(this, e), this.brand = "Viki", this.brandIcon = "", this.title = "Viki - A simple Wiki page in Markdown from notebook of VNote", this.favicon = "https://github.com/vnotex/viki/raw/master/resources/viki.ico", this.footer = "", this.showSuffix = !1, this.loadBeforeSearch = !0, this.fuzzySearch = !1, this.markdown = {
+                f(this, e), this.brand = "Viki", this.brandIcon = "", this.title = "Viki - A simple Wiki page in Markdown from notebook of VNote", this.favicon = "image/favicon.ico", this.footer = "", this.showSuffix = !1, this.loadBeforeSearch = !0, this.fuzzySearch = !1, this.markdown = {
                     html: !0,
                     breaks: !1,
                     linkify: !0,

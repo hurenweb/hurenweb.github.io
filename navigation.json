@@ -38,7 +38,7 @@
   "actions": [
     {
       "text": "GitHub",
-      "icon": "css/viki_white.svg",
+      "icon": "image/h_img_light.png",
       "target": "https://github.com/hurenweb/"
     }
   ]
