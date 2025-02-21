@@ -1,0 +1,45 @@
+{
+  "navigation": [
+    {
+      "text": "首页",
+      "target": "index.md",
+      "toc": false
+    },
+    {
+      "text": "前端",
+      "target": "vikiVNote/前端/vx.json",
+      "navi": true,
+      "navi_expand_level": 1
+    },
+    {
+      "text": "后端",
+      "target": "vikiVNote/后端/vx.json",
+      "navi": true,
+      "navi_expand_level": 1
+    },
+    {
+      "text": "技术",
+      "target": "vikiVNote/技术/vx.json",
+      "navi": true,
+      "navi_expand_level": 1
+    },
+    {
+      "text": "生活",
+      "target": "vikiVNote/生活/vx.json",
+      "navi": true,
+      "navi_expand_level": 1
+    },
+    {
+      "text": "关于",
+      "target": "page/about.md",
+      "toc": false
+    }
+  ],
+  "actions": [
+    {
+      "text": "GitHub",
+      "icon": "css/viki_white.svg",
+      "target": "https://github.com/hurenweb/"
+    }
+  ]
+}

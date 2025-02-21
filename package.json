@@ -1,0 +1,12 @@
+{
+  "name": "hurenweb.github.io",
+  "version": "1.0.0",
+  "description": "hurenweb.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server -a 127.0.0.1 -p 9006 -o"
+  },
+  "author": "huren",
+  "license": "ISC"
+}
